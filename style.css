@@ -1,0 +1,30 @@
+body{
+    background-color: #ced0ce;
+   
+}
+.container{
+    
+    width: 65vw;
+    padding: 30px;
+    margin: 30px auto;
+    height: 60vh;
+    border-left: 3px solid #f15025;
+    background-image: url("https://theysaidso.com/img/qod/qod-inspire.jpg");
+    
+}
+.quote-text{
+    min-height: 50vh;
+
+}
+.container h1{
+    font-size: 50px;
+    text-align: left;
+}
+.container p{
+    text-transform: capitalize;
+    color: #ced0ce;
+    text-align: right;
+    font-style: italic;
+    font-size: 30px;
+}
+    
